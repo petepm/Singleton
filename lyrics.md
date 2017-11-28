@@ -27,3 +27,12 @@ Could use some heartbreak
 
 And another round of silent self-sabotage
 Ensures the confrontation comes from the other side
+
+And the other one
+My experiment in unnatural happiness
+Against all instincts
+
+One I got away from
+Another a wave
+And always breaking
+But onto my sandbox
