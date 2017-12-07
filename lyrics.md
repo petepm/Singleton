@@ -36,3 +36,6 @@ One I got away from
 Another a wave
 And always breaking
 But onto my sandbox
+
+One trip to the pulled pork parade
+And I'm cured of my affection
