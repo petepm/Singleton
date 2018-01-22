@@ -3,8 +3,8 @@ Many will never even sprout
 
 Constantly peering
 Out the corner of my eye
-For a little blue circle
-On a pinned tab
+For that pale blue dot
+On a pinned chromed tab
 
 That time it's perpetually Pinkerton
 It's life in Singleton
@@ -37,5 +37,19 @@ Another a wave
 And always breaking
 But onto my sandbox
 
-One trip to the pulled pork parade
+One trip to the pulled pork (double-P) parade
 And I'm cured of my affection
+But creeping back
+It's death by a thousand paper cuts
+
+All the compliments with caveats
+My voice of an angel
+Nope the cousin of an angel
+It's not as fluid as Jeff Buck...
+Leading into the next
+So different by similar in all the worst ways
+
+Sure, plenty of fish in the sea
+But I got no boat
+Rod's getting old
+May as well become a master of baiting
