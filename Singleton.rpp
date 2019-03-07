@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.971/x64" 1551920830
+<REAPER_PROJECT 0.1 "5.971/x64" 1551921268
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 9.93052774999971
   ZOOM 18.09988511555574 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -140,7 +140,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -363,13 +363,13 @@
     <ITEM
       POSITION 0.277777
       SNAPOFFS 0
-      LENGTH 34.02768249999897
+      LENGTH 71.07618987499785
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7DDAE173-C670-4BAD-AF9D-0F74760E7D23}
       IID 1
       NAME "Superior Drummer 01 - All MIDI.mid"
@@ -678,8 +678,8 @@
         E 0 80 24 40
         E 80 80 26 40
         E 2 90 26 7f
-        E 100 90 26 7e
-        E 0 80 26 40
+        E 100 80 26 40
+        E 0 90 26 7e
         E 167 80 26 40
         E 11 90 24 7f
         E 0 90 2b 7f
@@ -735,8 +735,8 @@
         E 98 80 24 40
         E 11 90 24 6b
         E 83 90 34 68
-        E 40 90 26 70
-        E 0 80 24 40
+        E 40 80 24 40
+        E 0 90 26 70
         E 118 80 34 40
         E 49 80 26 40
         E 82 90 24 7c
@@ -815,11 +815,21 @@
         E 8 90 31 7f
         E 112 80 24 40
         E 8 80 31 40
-        E 337 90 34 73
-        E 17 90 26 75
-        E 103 80 34 40
-        E 17 80 26 40
-        E 121 90 24 75
+        E 115 90 24 7f
+        E 0 90 34 75
+        E 120 80 24 00
+        E 0 80 34 00
+        E 120 90 24 7f
+        E 120 80 24 00
+        E 120 90 34 75
+        E 120 80 34 00
+        E 0 90 24 73
+        E 120 80 24 00
+        E 0 90 26 75
+        E 0 90 34 73
+        E 120 80 26 40
+        E 0 80 34 40
+        E 120 90 24 75
         E 0 90 34 75
         E 120 80 24 40
         E 0 80 34 40
@@ -901,31 +911,31 @@
         E 99 80 24 40
         E 11 90 24 6b
         E 83 90 34 68
-        E 40 90 26 70
-        E 0 80 24 40
+        E 40 80 24 40
+        E 0 90 26 70
         E 118 80 34 40
         E 49 80 26 40
-        E 82 90 24 7c
-        E 113 80 24 40
-        E 23 90 24 7f
-        E 61 90 34 7f
-        E 37 80 24 40
-        E 2 90 26 67
-        E 134 80 34 40
-        E 33 80 26 40
-        E 67 90 24 7c
+        E 69 90 26 7f
+        E 120 80 26 40
+        E 120 90 31 7c
+        E 0 90 24 7f
+        E 98 80 24 40
+        E 15 80 31 40
+        E 127 90 34 7f
+        E 3 90 24 7c
         E 99 80 24 40
-        E 97 90 34 64
+        E 18 80 34 40
+        E 79 90 34 64
         E 32 90 3b 7f
         E 8 90 24 77
         E 117 80 24 40
         E 14 80 34 40
         E 25 80 3b 40
-        E 79 90 24 7a
-        E 7 90 31 7f
-        E 105 80 24 40
-        E 4 80 31 40
-        E 46 90 34 70
+        E 85 90 24 7a
+        E 1 90 31 7f
+        E 109 80 31 40
+        E 2 80 24 40
+        E 44 90 34 70
         E 79 90 24 6f
         E 90 80 34 40
         E 67 80 24 40
@@ -1015,7 +1025,17 @@
         E 112 90 26 77
         E 8 80 24 40
         E 112 80 26 40
-        E 113 90 34 7f
+        E 126 90 34 70
+        E 0 90 24 7f
+        E 120 80 34 00
+        E 0 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 120 90 31 70
+        E 120 80 31 00
+        E 592 90 34 7f
         E 8 90 24 70
         E 112 80 34 40
         E 8 80 24 40
@@ -1299,11 +1319,16 @@
         E 0 90 3a 7f
         E 120 80 24 40
         E 0 80 3a 40
-        E 1320 b0 7b 00
+        E 63655 b0 7b 00
         GUID {A68020E8-9255-4752-9566-16909D2D6A22}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 32
         VELLANE -1 156 0
+        CFGEDITVIEW -1540.548556 0.021914 57 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 269
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 0 1 1 1 0.125 8 8 1928 1168 0 0 0 0 0 0 0 1 0 0 0 0 1 64
       >
     >
     <ITEM
@@ -7401,6 +7426,7 @@
         GUID {68923205-B467-4F83-BD1C-23A8590FE556}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 36
+        VELLANE -1 156 0
       >
     >
   >
@@ -9630,8 +9656,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
-    REC 1 1 0 0 0 0 0
+    SEL 0
+    REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -9656,7 +9682,7 @@
         fRyP/LWYwax94/95sLNm5k7i5U7lvdWH4PMjMxhzJGfVBpTrpsHaCz6m0eUz+c/yVhP+qMad4NAuHHq53z1yPhqZ/Xb+JKbhBc+/J4tvsgWgQWF0YWQCAAAAdHNycGJp
         bHq9EAAAL6sAAHja7V3ZVuJOGu+57afIcS77INmX/7F7Du62ogiIdp++KUIMJUkKs4j4SvOSUyFbhUUIIpV27JuWLF/96qtvryXMRf3uX1++fPn3f7982fvPs20xT4br
         QeR83+F22R3GcHTUg475feemfVxRdxjPB04PWMgxvu84aIf5z4+ve6ZbgY7nu4FtOH5F7wfOgOkG0OpVnMDuGu73Hfyijuwhfgs/MAT6oAJ7uAVNYUVNVlV+h7l3gW2M
-        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340Magb40eUwcuw8oMz/7DKv9wLP6D03Z+fP3KMHseCpxepQd80AWewZgW6gKrYhu+ixxkT5D1IW6kYqOeEQGF
+        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340Magb40eUwcuw8oMz/7Dif/wKv6D03Z+fP3KMHseCpxepQd80AWewZgW6gKrYhu+ixxkT5D1IW6kYqOeEQGF
         PYg7DRzHsHCD8k41ooS54mIYBENxEwz+t3cPnyspOzwGM6kCfcP28CNi/Mz0U0zYGVVjWdygA8J+NM/TR/HD4YOW4RvZpfji4reZIAgvP7703N4IitaNYT3Jj+NjtQ7v
         zO/fd0hSJLGKGcD8PXz3CRojYohxb4YW8I1KFziD7zs7825FQEKJQq7Rq4QUYqaKO8z0Lw92Lfz3PbA8I2RwrvHqK9gI3CDoQcQQ0jLTiyEIpdDHT2DBB7hF/I6PbOBP
         XgiZh4cqeygc0lAhfKjnHuRmKJO0J4MBa8lInDmhSulGTffhk4H7CqxgIlizNDCVUCgJBIxr2Ajz0gbPEzDJTziBW50Do5q+PNP77Ja3mMETJuakLLtJyGN1ViD3Ut10
@@ -9698,7 +9724,7 @@
         F3ZFXa8rr6cG79iTONSe1xVtva68Hqi/Y1fiUHBeV7g1Nf/1SPKVvpD18Clblz7iOWDo9ZFPltHTaxMrmf5a7ECqU1T2qlPGOb680gmiKdX4wcksWRbwZ6+n3FDEpbOK
         1eJUZXnpepg1qPKSvPQjPeuQVdWlX6Rcg6wkLl2mvA7YsBiw5JD/NcgKqrD0VOZ10Mr80m9GryUISkL2wTpW7INvgnEzvuBr550TDwa1NXkrLD1Ucx2ibCq0twHSRsAz
         tZtW1wTBo1h//D1alwVKSpY7ODwbc2bVOuLPTn+xdQ2NWbCm4nLy0pOo1qDKLj0eOI2AZ8xcNLU4M5sYTTLiFkFotavRT9xGnP0z98i1beAAM2w/Pbs7fAjo4UdOK5OC
-        BPD7TPw7Llcgt4fzgUwgXIQ9UFhrscI3wiMSHSNfzWg2/qlWE+IkFeiYOD7HfmziXao/JhOkMP22akXvB87gx9f/Af52sihhdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
+        BPD7TPw7Llcgt4fzgUwgXIQ9UFhrscI3wiMSHSNfzWg2/qlWE+IkFeiYOD7HfmziXao/JhOkMP22akXvB87gx9f/AaXqsi9hdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
         2mNiYGDQ9fTTNXXP9AMyGQARpQIn
         AEhhbiBWYWxlbgAQAAAA
       >
@@ -9716,7 +9742,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C6E0DFBB-6D06-41C5-983E-25329483E873}
       IID 17
       NAME "05-Geet 1-190306_2003.wav"
