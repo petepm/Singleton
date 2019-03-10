@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.971/x64" 1552233465
+<REAPER_PROJECT 0.1 "5.971/x64" 1552260793
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 15.25458691666621
-  ZOOM 18.09988511555578 0 0
+  CURSOR 6.15739016666649
+  ZOOM 50.47430263272146 205 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 0
@@ -941,107 +941,119 @@
         E 1 90 31 7f
         E 109 80 31 40
         E 2 80 24 40
-        E 44 90 34 70
-        E 79 90 24 6f
-        E 90 80 34 40
-        E 67 80 24 40
-        E 91 90 26 7a
-        E 140 90 34 77
-        E 20 80 26 40
-        E 76 90 24 72
-        E 72 80 34 40
-        E 49 80 24 40
-        E 3 90 24 7f
-        E 120 90 26 77
-        E 35 80 24 40
-        E 122 90 34 7f
-        E 2 80 26 40
-        E 43 90 24 7f
-        E 113 80 34 40
-        E 54 80 24 40
-        E 125 90 26 75
-        E 173 80 26 40
-        E 9 90 34 7d
-        E 30 90 24 7d
-        E 127 80 34 40
-        E 1 90 24 7f
-        E 36 80 24 40
-        E 75 90 26 77
-        E 52 80 24 40
+        E 123 90 24 6f
+        E 5 90 34 7f
+        E 152 80 24 40
+        E 17 80 34 40
+        E 191 90 2d 7f
+        E 120 80 2d 00
+        E 0 90 2b 72
+        E 120 90 35 7f
+        E 1 80 2b 40
+        E 2 90 24 7f
+        E 117 80 35 40
+        E 0 80 24 40
+        E 3 90 26 77
+        E 159 80 26 40
+        E 71 90 24 7f
+        E 7 90 34 7f
+        E 158 80 34 40
+        E 2 80 24 40
+        E 320 90 26 7d
+        E 0 90 34 7d
         E 120 80 26 40
-        E 43 90 34 7f
-        E 34 90 24 7f
-        E 125 80 34 40
-        E 29 80 24 40
-        E 85 90 26 60
-        E 171 80 26 40
-        E 39 90 34 5d
-        E 33 90 24 7e
-        E 127 80 34 40
-        E 38 80 24 40
-        E 67 90 26 6c
-        E 163 80 26 40
-        E 83 90 24 7f
-        E 9 90 34 7f
-        E 111 80 24 40
-        E 9 80 34 40
-        E 112 90 26 7f
+        E 37 80 34 40
+        E 83 90 24 7e
+        E 0 90 34 59
+        E 120 80 24 00
+        E 0 80 34 00
+        E 83 90 34 7f
+        E 37 90 26 7f
         E 120 80 26 40
-        E 121 90 24 7f
-        E 8 90 34 7f
-        E 112 80 24 40
+        E 2 80 34 40
+        E 114 90 24 7f
+        E 4 90 34 59
+        E 120 80 24 40
+        E 0 80 34 00
+        E 0 90 24 77
+        E 86 90 34 5d
+        E 33 90 26 7e
+        E 1 80 24 00
+        E 126 80 34 40
+        E 38 80 26 40
+        E 76 90 24 6c
+        E 0 90 34 59
+        E 120 80 24 40
+        E 0 80 34 00
+        E 120 90 26 7f
+        E 6 90 34 7f
+        E 114 80 26 40
+        E 6 80 34 40
+        E 114 90 34 59
+        E 0 90 24 7f
+        E 120 80 34 00
+        E 0 80 24 40
+        E 0 90 24 7f
+        E 119 90 26 7f
+        E 1 80 24 00
+        E 7 90 34 7f
+        E 112 80 26 40
         E 8 80 34 40
         E 105 90 24 7f
         E 8 90 31 7f
         E 112 80 24 40
         E 8 80 31 40
-        E 338 90 34 73
-        E 16 90 26 75
-        E 104 80 34 40
-        E 16 80 26 40
-        E 121 90 24 75
-        E 0 90 34 75
+        E 120 90 26 7f
+        E 120 80 26 00
+        E 98 90 34 73
+        E 22 90 24 75
+        E 98 80 34 40
+        E 22 80 24 40
+        E 0 90 24 75
+        E 120 80 24 00
+        E 0 90 26 75
+        E 120 80 26 00
+        E 120 90 24 75
         E 120 80 24 40
-        E 0 80 34 40
-        E 17 90 24 73
-        E 120 80 24 40
+        E 0 90 34 7f
+        E 0 90 24 73
+        E 120 80 34 40
+        E 0 80 24 40
         E 0 90 26 72
         E 120 80 26 40
-        E 86 90 31 72
-        E 19 90 24 72
-        E 101 80 31 40
-        E 19 80 24 40
-        E 33 90 24 72
-        E 104 90 26 72
-        E 16 80 24 40
-        E 104 80 26 40
-        E 97 90 34 7f
-        E 8 90 24 70
-        E 112 80 34 40
-        E 8 80 24 40
-        E 17 90 24 72
-        E 112 90 26 72
-        E 8 80 24 40
-        E 112 80 26 40
-        E 105 90 24 78
-        E 0 90 31 78
+        E 122 90 24 72
+        E 118 90 24 72
+        E 2 80 24 40
+        E 118 80 24 40
+        E 0 90 26 72
+        E 120 80 26 40
+        E 120 90 34 7f
+        E 4 90 24 70
+        E 116 80 34 40
+        E 0 90 24 72
+        E 4 80 24 40
+        E 116 80 24 40
+        E 0 90 26 72
+        E 120 80 26 40
+        E 118 90 31 7f
+        E 2 90 24 78
+        E 118 80 31 40
+        E 2 80 24 40
+        E 0 90 24 78
         E 120 80 24 40
-        E 0 80 31 40
-        E 9 90 24 78
-        E 112 90 26 77
-        E 8 80 24 40
-        E 112 80 26 40
-        E 126 90 34 70
+        E 0 90 26 77
+        E 120 80 26 40
+        E 120 90 24 7f
+        E 5 90 34 70
+        E 115 80 24 00
         E 0 90 24 7f
-        E 120 80 34 00
-        E 0 80 24 00
-        E 0 90 24 7f
-        E 120 80 24 00
+        E 5 80 34 00
+        E 115 80 24 00
         E 0 90 26 7f
         E 120 80 26 00
-        E 120 90 31 70
+        E 125 90 31 70
         E 120 80 31 00
-        E 592 90 34 7f
+        E 347 90 34 7f
         E 8 90 24 70
         E 112 80 34 40
         E 8 80 24 40
@@ -1330,7 +1342,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 32
         VELLANE -1 156 0
-        CFGEDITVIEW 18402.337439 0.051762 59 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 9305.071198 0.091805 40 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -9688,7 +9700,7 @@
         fRyP/LWYwax94/95sLNm5k7i5U7lvdWH4PMjMxhzJGfVBpTrpsHaCz6m0eUz+c/yVhP+qMad4NAuHHq53z1yPhqZ/Xb+JKbhBc+/J4tvsgWgQWF0YWQCAAAAdHNycGJp
         bHq9EAAAL6sAAHja7V3ZVuJOGu+57afIcS77INmX/7F7Du62ogiIdp++KUIMJUkKs4j4SvOSUyFbhUUIIpV27JuWLF/96qtvryXMRf3uX1++fPn3f7982fvPs20xT4br
         QeR83+F22R3GcHTUg475feemfVxRdxjPB04PWMgxvu84aIf5z4+ve6ZbgY7nu4FtOH5F7wfOgOkG0OpVnMDuGu73Hfyijuwhfgs/MAT6oAJ7uAVNYUVNVlV+h7l3gW2M
-        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340MagW4HD1IHLcCzDcf9Iyj+ixPAsp+38+PqVYfY8FDi9Sg/4oAs8gzEt1AVWxTZ8FznIniDrQ9xIxUY9IwIK
+        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340MagW4HD1IHLcCzDaf8Iwj+cwPAsp+38+PqVYfY8FDi9Sg/4oAs8gzEt1AVWxTZ8FznIniDrQ9xIxUY9IwIK
         exB3GjiOYeEG5Z1qRAlzxcUwCIbiJhj8b+8ePldSdngMZlIF+obt4UfE+Jnpp5iwM6rGsrhBB4T9aJ6nj+KHwwctwzeyS/HFxW8zQRBefnzpub0RFK0bw3qSH8fHah3e
         md+/75CkSGIVM4D5e/juEzRGxBDj3gwt4BuVLnAG33d25t2KgIQShVyjVwkpxEwVd5jpXx7sWvjve2B5RsjgXOPVV7ARuEHQg4ghpGWmF0MQSqGPn8CCD3CL+B0f2cCf
         vBAyDw9V9lA4pKFC+FDPPcjNUCZpTwYD1pKROHNCldKNmu7DJwP3FVjBRLBmaWAqoVASCBjXsBHmpQ2eJ2CSn3ACtzoHRjV9eab32S1vMYMnTMxJWXaTkMfqrEDupbrp
@@ -9730,7 +9742,7 @@
         LuyKul5XXk8N3rEncag9ryvael15PVB/x67EoeC8rnBrav7rkeQrfSHr4VO2Ln3Ec8DQ6yOfLKOn1yZWMv212IFUp6jsVaeMc3x5pRNEU6rxg5NZsizgz15PuaGIS2cV
         q8WpyvLS9TBrUOUleelHetYhq6pLv0i5BllJXLpMeR2wYTFgySH/a5AVVGHpqczroJX5pd+MXksQlITsg3Ws2AffBONmfMHXzjsnHgxqa/JWWHqo5jpE2VRobwOkjYBn
         ajetrgmCR7H++Hu0LguUlCx3cHg25syqdcSfnf5i6xoas2BNxeXkpSdRrUGVXXo8cBoBz5i5aGpxZjYxmmTELYLQalejn7iNOPtn7pFr28ABZth+enZ3+BDQw4+cViYF
-        CeD3mfh3XK5Abg/nA5lAuAh7oLDWYoVvhEckOka+mtFs/FOtJsRJKtAxcXyO/djEu1R/TCZIYfpt1YreD5zBj6//A/H+skZhdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
+        CeD3mfh3XK5Abg/nA5lAuAh7oLDWYoVvhEckOka+mtFs/FOtJsRJKtAxcXyO/djEu1R/TCZIYfpt1YreD5zBj6//A/N4skNhdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
         2mNiYGDQ9fTTNXXP9AMyGQARpQIn
         AEhhbiBWYWxlbgAQAAAA
       >
