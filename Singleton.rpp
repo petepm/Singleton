@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.971/x64" 1552352331
+<REAPER_PROJECT 0.1 "5.971/x64" 1552390434
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 99.99971999999696
+  CURSOR 3.40276825
   ZOOM 12.85911208940575 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -138,8 +138,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
-    REC 0 4128 0 7 0 0 0
+    SEL 1
+    REC 1 4128 0 7 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -368,7 +368,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {7DDAE173-C670-4BAD-AF9D-0F74760E7D23}
       IID 1
       NAME "Superior Drummer 01 - All MIDI.mid"
@@ -1469,27 +1469,195 @@
         E 120 80 1e 00
         E 0 80 24 00
         E 120 90 1e 5f
-        E 0 90 26 77
+        E 0 90 24 77
         E 120 80 1e 00
-        E 0 80 26 00
-        E 120 90 24 77
-        E 0 90 1e 43
-        E 120 80 24 00
-        E 0 80 1e 00
+        E 0 80 24 00
+        E 120 90 1e 43
+        E 120 80 1e 00
         E 0 90 24 77
         E 120 80 24 00
         E 0 90 26 77
-        E 0 90 1e 5e
+        E 0 90 19 5e
         E 120 80 26 00
-        E 0 80 1e 00
-        E 120 90 1e 49
-        E 120 80 1e 00
-        E 27480 b0 7b 00
+        E 0 80 19 00
+        E 120 90 19 3a
+        E 120 80 19 00
+        E 120 90 26 77
+        E 0 90 19 62
+        E 120 80 26 00
+        E 0 80 19 00
+        E 120 90 24 77
+        E 0 90 19 3a
+        E 120 80 24 00
+        E 0 80 19 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 26 77
+        E 0 90 19 5c
+        E 120 80 26 00
+        E 0 80 19 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 0 90 19 42
+        E 120 80 24 00
+        E 0 80 19 00
+        E 120 90 26 77
+        E 0 90 19 64
+        E 120 80 26 00
+        E 0 80 19 00
+        E 120 90 24 77
+        E 0 90 19 46
+        E 120 80 24 00
+        E 0 80 19 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 26 77
+        E 0 90 19 5d
+        E 120 80 26 00
+        E 0 80 19 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 0 90 19 4c
+        E 120 80 24 00
+        E 0 80 19 00
+        E 120 90 26 77
+        E 0 90 19 67
+        E 120 80 26 00
+        E 0 80 19 00
+        E 120 90 24 77
+        E 0 90 55 7f
+        E 120 80 55 00
+        E 40 80 24 00
+        E 0 90 24 77
+        E 80 90 19 7f
+        E 80 80 24 00
+        E 0 90 24 77
+        E 40 80 19 00
+        E 120 80 24 00
+        E 0 90 24 77
+        E 0 90 26 77
+        E 160 80 24 00
+        E 0 80 26 00
+        E 0 90 24 77
+        E 0 90 55 7f
+        E 120 80 55 00
+        E 40 80 24 00
+        E 0 90 24 77
+        E 0 90 55 7f
+        E 120 80 55 00
+        E 40 80 24 00
+        E 0 90 24 77
+        E 0 90 19 7f
+        E 120 80 19 00
+        E 40 80 24 00
+        E 0 90 24 77
+        E 160 80 24 00
+        E 0 90 24 77
+        E 0 90 26 77
+        E 160 80 24 00
+        E 0 80 26 00
+        E 0 90 24 77
+        E 0 90 55 7f
+        E 120 80 24 00
+        E 0 80 55 00
+        E 0 90 24 77
+        E 0 90 55 7f
+        E 120 80 24 00
+        E 0 80 55 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 24 77
+        E 120 80 24 00
+        E 0 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 360 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 120 90 26 77
+        E 120 80 26 00
+        E 120 90 24 77
+        E 120 80 24 00
+        E 360 90 24 77
+        E 120 80 24 00
+        E 1800 90 24 77
+        E 120 80 24 00
+        E 13320 b0 7b 00
         GUID {A68020E8-9255-4752-9566-16909D2D6A22}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 32
         VELLANE -1 156 0
-        CFGEDITVIEW 24559.302745 0.015825 49 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -3324.5939 0.011882 47 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -10069,57 +10237,57 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357 ""
-        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
+        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
-        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
+        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
-        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
-        Y2JgYND19NM1dc/0AzIZABGlAic=
+        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
+        2mNiYGDQ9fTTNXXP9AMyGQARpQIn
         AEhhbiBWYWxlbgAQAAAA
       >
       PRESETNAME "Han Valen"
@@ -10317,8 +10485,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
-    REC 1 1 0 0 0 0 0
+    SEL 0
+    REC 0 1 0 0 0 0 0
     AUTO_RECARM 1
     VU 2
     TRACKHEIGHT 0 0 0
@@ -10374,7 +10542,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {3EEDB9B0-1CD8-496A-BEC1-780881C59F92}
       IID 27
       NAME "06-Geet 2-190311_2050.wav"
