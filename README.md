@@ -15,6 +15,10 @@ What is the pattern of rest between each group?
 
 Pattern of length of the units? 5-5-4
 
+Notes in the key
+
+    1-4-5-1
+
 
 ## Heartbeat chord
 
