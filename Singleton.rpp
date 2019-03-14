@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.971/x64" 1552493470
+<REAPER_PROJECT 0.1 "5.971/x64" 1552527380
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 28.61103099999914
-  ZOOM 25.47655226259537 0 0
+  CURSOR 54.37484774999836
+  ZOOM 50.47430263272153 2246 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 0
@@ -132,7 +132,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -362,13 +362,13 @@
     <ITEM
       POSITION 0.277777
       SNAPOFFS 0
-      LENGTH 52.4998529999984
+      LENGTH 46.94431299999857
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {7DDAE173-C670-4BAD-AF9D-0F74760E7D23}
       IID 1
       NAME "Superior Drummer 01 - All MIDI.mid"
@@ -1656,7 +1656,7 @@
         E 120 80 24 00
         E 1800 90 24 77
         E 120 80 24 00
-        E 12600 b0 7b 00
+        E 3000 b0 7b 00
         GUID {A68020E8-9255-4752-9566-16909D2D6A22}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 32
@@ -1669,9 +1669,130 @@
       >
     >
     <ITEM
-      POSITION 57.77761599999835
+      POSITION 54.16651499999836
       SNAPOFFS 0
-      LENGTH 10.83330299999967
+      LENGTH 9.58330649999971
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {B6D326EE-9D0B-4EEC-A2E4-57538C79637B}
+      IID 33
+      NAME "Superior Drummer 01 - All MIDI.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3984111C-EE0A-41DA-AD35-F6443B6B3254}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        POOLEDEVTS {ABB17FD0-2953-4787-AE1C-7B9BFA29FE87}
+        E 480 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 840 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 480 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 600 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 1080 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 480 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 1320 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 960 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 24 7f
+        E 120 80 24 00
+        E 0 90 26 7f
+        E 120 80 26 00
+        E 2160 b0 7b 00
+        GUID {98E5B24E-479E-42FE-8078-5AD7299D83B8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 45
+        VELLANE -1 156 0
+        CFGEDITVIEW -15719.338893 0.037868 55 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 269
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 0 1 1 1 0.25 449 151 1857 1155 0 0 0 0 0 0 0 1 0 0 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 177.77727999999459
+      SNAPOFFS 0
+      LENGTH 10.83330299999966
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -1898,7 +2019,7 @@
       >
     >
     <ITEM
-      POSITION 75.5553439999977
+      POSITION 191.38835299999414
       SNAPOFFS 0
       LENGTH 231.80490650000036
       LOOP 0
@@ -8283,9 +8404,9 @@
       >
     >
     <ITEM
-      POSITION 75.5553439999977
+      POSITION 191.38835299999414
       SNAPOFFS 0
-      LENGTH 146.80514450000106
+      LENGTH 146.80514450000112
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -8797,9 +8918,9 @@
       >
     >
     <ITEM
-      POSITION 75.5553439999977
+      POSITION 191.38835299999414
       SNAPOFFS 0
-      LENGTH 22.638825500001
+      LENGTH 22.63882550000105
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -9223,7 +9344,7 @@
       >
     >
     <ITEM
-      POSITION 75.5553439999977
+      POSITION 191.38835299999414
       SNAPOFFS 0
       LENGTH 175.13839850000107
       LOOP 0
@@ -10248,7 +10369,7 @@
         fRyP/LWYwax94/95sLNm5k7i5U7lvdWH4PMjMxhzJGfVBpTrpsHaCz6m0eUz+c/yVhP+qMad4NAuHHq53z1yPhqZ/Xb+JKbhBc+/J4tvsgWgQWF0YWQCAAAAdHNycGJp
         bHq9EAAAL6sAAHja7V3ZVuJOGu+57afIcS77INmX/7F7Du62ogiIdp++KUIMJUkKs4j4SvOSUyFbhUUIIpV27JuWLF/96qtvryXMRf3uX1++fPn3f7982fvPs20xT4br
         QeR83+F22R3GcHTUg475feemfVxRdxjPB04PWMgxvu84aIf5z4+ve6ZbgY7nu4FtOH5F7wfOgOkG0OpVnMDuGu73Hfyijuwhfgs/MAT6oAJ7uAVNYUVNVlV+h7l3gW2M
-        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340Magb40eUwcuwwkMx//Dcf9wLMOznLbz4+tXhtnzUOD0Kj3ggy7wDMa0UBdYFdvwXeQge4KsD3EjFRv1jAgo
+        kBvdwS3b4AG5lRSNhK9A3UXZFT684pDP4CtD1/CMBU340Magb40eUwcuwwkMz/0jyP/wLMOznLbz4+tXhtnzUOD0Kj3ggy7wDMa0UBdYFdvwXeQge4KsD3EjFRv1jAgo
         7EHcaeA4hoUblHeqESXMFRfDIBiKm2Dwv717+FxJ2eExmEkV6Bu2hx8R42emn2LCzqgay+IGHRD2o3mePoofDh+0DN/ILsUXF7/NBEF4+fGl5/ZGULRuDOtJfhwfq3V4
         Z37/vkOSIolVzADm7+G7T9AYEUOMezO0gG9UusAZfN/ZmXcrAhJKFHKNXiWkEDNV3GGmf3mwa+G/74HlGSGDc41XX8FG4AZBDyKGkJaZXgxBKIU+fgILPsAt4nd8ZAN/
         8kLIPDxU2UPhkIYK4UM99yA3Q5mkPRkMWEtG4swJVUo3aroPnwzcV2AFE8GapYGphEJJIGBcw0aYlzZ4noBJfsIJ3OocGNX05ZneZ7e8xQyeMDEnZdlNQh6rswK5l+qm
@@ -10290,7 +10411,7 @@
         uLAr6npdeT01eMeexKH2vK5o63Xl9UD9HbsSh4LzusKtqfmvR5Kv9IWsh0/ZuvQRzwFDr498soyeXptYyfTXYgdSnaKyV50yzvHllU4QTanGD05mybKAP3s95YYiLp1V
         rBanKstL18OsQZWX5KUf6VmHrKou/SLlGmQlceky5XXAhsWAJYf8r0FWUIWlpzKvg1bml34zei1BUBKyD9axYh98E4yb8QVfO++ceDCorclbYemhmusQZVOhvQ2QNgKe
         qd20uiYIHsX64+/RuixQUrLcweHZmDOr1hF/dvqLrWtozII1FZeTl55EtQZVdunxwGkEPGPmoqnFmdnEaJIRtwhCq12NfuI24uyfuUeubQMHmGH76dnd4UNADz9yWpkU
-        JIDfZ+LfcbkCuT2cD2QC4SLsgcJaixW+ER6R6Bj5akaz8U+1mhAnqUDHxPE59mMT71L9MZkghem3VSt6P3AGP77+DwEtsiJhdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
+        JIDfZ+LfcbkCuT2cD2QC4SLsgcJaixW+ER6R6Bj5akaz8U+1mhAnqUDHxPE59mMT71L9MZkghem3VSt6P3AGP77+D1LpsiphdGFkAgAAAEROU1NiaWx6FgAAABAAAAB4
         2mNiYGDQ9fTTNXXP9AMyGQARpQIn
         AEhhbiBWYWxlbgAQAAAA
       >
@@ -10371,9 +10492,9 @@
       >
     >
     <ITEM
-      POSITION 60.83315192743764
+      POSITION 101.9441589999969
       SNAPOFFS 0
-      LENGTH 20.17038548752835
+      LENGTH 18.2259464875284
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
@@ -10384,7 +10505,7 @@
       IID 22
       NAME "05-Geet 1-190309_1011.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 1.944439
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {5BB7768E-D581-49FF-A3B9-CDD326F76235}
@@ -10395,7 +10516,7 @@
       TAKE SEL
       NAME "05-Geet 1-190309_1013-03.wav"
       TAKEVOLPAN 0 1 -1
-      SOFFS 0
+      SOFFS 1.944439
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       TAKECOLOR 30627270 R
@@ -10407,7 +10528,7 @@
       TAKE
       NAME "05-Geet 1-190309_1014.wav"
       TAKEVOLPAN 0 1 -1
-      SOFFS 0
+      SOFFS 1.944439
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       TAKECOLOR 25558899 R
@@ -10419,7 +10540,7 @@
       TAKE
       NAME "05-Geet 1-190309_1015.wav"
       TAKEVOLPAN 0 1 -1
-      SOFFS 0
+      SOFFS 1.944439
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       TAKECOLOR 24597093 R
