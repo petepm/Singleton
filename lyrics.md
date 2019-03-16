@@ -53,3 +53,9 @@ Sure, plenty of fish in the sea
 But I got no boat
 Rod's getting old
 May as well become a master of baiting
+
+
+## Misc ideas
+
+* Last time in love
+* The way it has to be
