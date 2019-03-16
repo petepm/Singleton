@@ -9,11 +9,13 @@ The melodic pattern is A-A-B-C-D A-B-C A-B-C-D A-B-C
 
 What is the pattern of rest between each small unit?
 
-    12-7-9-10-13
+    12-7-9-10-13 TODO
 
 What is the pattern of rest between each group?
 
 Pattern of length of the units? 5-5-4
+
+Pattern in the subdivisions used in the units? Currently all 16ths.
 
 Notes in the key
 
