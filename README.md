@@ -28,3 +28,9 @@ Notes in the key
 ## Idea combination during composition
 
 The initial riffs were very simple.
+
+
+## Misc concepts
+
+* Intro riff gets more complicated each iteration, even when it comes back
+  later in the song.

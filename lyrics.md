@@ -59,3 +59,4 @@ May as well become a master of baiting
 
 * Last time in love
 * The way it has to be
+* Short, pale, and ugly
