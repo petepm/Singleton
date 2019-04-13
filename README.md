@@ -21,8 +21,15 @@ Notes in the key
 
     1-4-5-1
 
+Maybe use heartbeat intervals to carry this into the rhythm.
+
 
 ## Heartbeat chord
+
+* Root
+* 7.25 semitones
+* 0.71 semitones
+* 6.53 semitones
 
 
 ## Idea combination during composition
