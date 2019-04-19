@@ -23,13 +23,25 @@ Notes in the key
 
 Maybe use heartbeat intervals to carry this into the rhythm.
 
+Durations between snare hits:
+
+* Root: 8 16th notes
+* 7.25 semitones: 3.04 / 4 * 8 ~ 6.1 ~ 6 + 1/8 -- 128ths -- an inversion
+* 0.71 semitones: 2.08 / 2 * 8 ~ 8.3 ~ 8 + 1/3 -- 48ths
+
+Subdivisions used for kicks:
+
+* Root: 4 16ths
+* 1/4 / 2.08 = 0.12 -- 1/8th notes
+
+1-7-5
 
 ## Heartbeat chord
 
 * Root
-* 7.25 semitones
-* 0.71 semitones
-* 6.53 semitones
+* 7.25 semitones -- 3.04 ratio halved
+* 0.71 semitones -- 2.08 ratio halved
+* 6.53 semitones -- 2.92 ratio halved
 
 
 ## Idea combination during composition
