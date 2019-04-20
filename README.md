@@ -36,6 +36,8 @@ Subdivisions used for kicks:
 
 1-7-5
 
+Write verse and chorus totally from vocals first!
+
 ## Heartbeat chord
 
 * Root
