@@ -1,3 +1,37 @@
+# Lyrics
+
+## Verse 1
+
+Let's say that happy is an exponential
+Complex root mean square
+
+
+## Chorus 1
+
+I will not fail until I fail the next time
+And it's coming back to
+
+
+## Verse 2
+
+This part could get a little awkward
+Could write
+Bout all the failures
+
+
+## Chorus 2
+
+I'm stuck in constant town
+
+
+## Post-chorus
+
+I see you like your fucking punk songs
+I'd sit and bear them all day long
+
+
+## Misc lyrics
+
 It's like the seeds falling from a tree
 Many will never even sprout
 
@@ -60,3 +94,5 @@ May as well become a master of baiting
 * Last time in love
 * The way it has to be
 * Short, pale, and ugly
+* Pain fades and each disaster only gets one line
+* Happiness as a side effect
