@@ -18,6 +18,12 @@ This part could get a little awkward
 Could write
 Bout all the failures
 
+And the memories they flood back in
+Coincidentally
+When I'm asleep
+They're terrifying me
+Eternally
+
 
 ## Chorus 2
 
