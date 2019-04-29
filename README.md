@@ -38,6 +38,22 @@ Subdivisions used for kicks:
 
 Write verse and chorus totally from vocals first!
 
+
+## Intro modules
+
+Let's give these names and arrange where they go.
+
+1. Strait up cyclic -- normal one from before
+2. Triplet transition
+3. Slide up and down lead-in
+4. Chromatic chicken transition
+5. Water world 2-3-5-4-3
+6. Sequenced major transition
+7. Nuno triplets (little Jack)
+8. Minor 3rd chromatic shuffle
+9. Han Valen ascension 
+
+
 ## Heartbeat chord
 
 * Root
