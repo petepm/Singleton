@@ -47,11 +47,12 @@ Let's give these names and arrange where they go.
 2. Triplet transition
 3. Slide up and down lead-in
 4. Chromatic chicken transition
-5. Water world 2-3-5-4-3
-6. Sequenced major transition
+5. Aqua marine 2-3-5-4-3
+6. Sequenced aqua marine transition
 7. Nuno triplets (little Jack)
 8. Minor 3rd chromatic shuffle
-9. Han Valen ascension 
+9. Han Valen ascension
+10. Country Blinkin
 
 
 ## Heartbeat chord
