@@ -54,6 +54,8 @@ Let's give these names and arrange where they go.
 9. Han Valen ascension
 10. Country Blinkin
 
+We must now arrange a "melody" or story from these.
+
 
 ## Heartbeat chord
 
