@@ -8,19 +8,22 @@ Complex root mean square
 
 ## Chorus 1
 
+I've been down this slippery slope before
+Forgot to kiss
 I will not fail until I fail the next time
 And it's coming back to
 
 
 ## Verse 2
 
-This part could get a little awkward
-Could write
-Bout all the failures
+Cliche bout all the swimmy fish in the sea
+Got me
+No arm floatees
+Old rod bent and waiting
+A master baiting furiously
 
-And the memories they flood back in
-Coincidentally
-When I'm asleep
+And the memories assaulting sleep
+In dreams when I'm just trying to get my Zs
 They're terrifying me
 Eternally
 
@@ -28,12 +31,37 @@ Eternally
 ## Chorus 2
 
 I'm stuck in constant town
+Count down the times
+Fall on my face
+And now it's coming back to you
 
 
 ## Post-chorus
 
-I see you like your fucking punk songs
+I saw she likes her fucking punk songs
 I'd sit and bear them all day long
+
+
+## Intro return
+
+Freeze up round pretty girls
+And I'm down on my knees
+Like a tree with falling seeds
+Where most will not sprout
+Struggling all the way
+Down the path where some say
+Hey babe let's get married
+
+
+## Intro outro
+
+Accomplished rate of change
+Happiness and heartbreak remove the strange
+Drive to create will remain
+Tugging all the way
+Let
+Tell your friends they'll claim insane
+Say you'd get married
 
 
 ## Misc lyrics
@@ -102,3 +130,4 @@ May as well become a master of baiting
 * Short, pale, and ugly
 * Pain fades and each disaster only gets one line
 * Happiness as a side effect
+* Tiny ice cubes
