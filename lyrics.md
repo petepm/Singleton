@@ -3,20 +3,22 @@
 ## Verse 1
 
 Let's say that happy is an exponential
-Complex root mean square
+Could be complex wavy
+If imaginary
 
 
 ## Chorus 1
 
-I've been down this slippery slope before
+I've slid down this slippery slope before
 Forgot to kiss
-I will not fail until I fail the next time
+AHHHHHH!
+Will not fail until I fail the next time
 And it's coming back to
 
 
 ## Verse 2
 
-Cliche bout all the swimmy fish in the sea
+This cliche bout quantity of fishies
 Got me
 No arm floatees
 Old rod bent and waiting
@@ -30,16 +32,21 @@ Eternally
 
 ## Chorus 2
 
-I'm stuck in constant town
-Count down the times
+I always said I'd need a tissue
+But now it's in a different way
+Count down the times I had no tears
 Fall on my face
-And now it's coming back to you
+And now it's running back to you
 
 
 ## Post-chorus
 
 I saw she likes her fucking punk songs
 I'd sit and bear them all day long
+Then lay there all night
+On a pull-out couch
+With tiny ice cube tray
+Cursed with nothing normal to say
 
 
 ## Intro return
