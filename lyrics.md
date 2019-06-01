@@ -129,6 +129,12 @@ But I got no boat
 Rod's getting old
 May as well become a master of baiting
 
+Sometimes I think that I don't need to worry
+Because things are going okay
+But then start worrying that if I stop worrying
+Things will start to be not okay
+Because worrying is keeping them that way
+
 
 ## Misc ideas
 
