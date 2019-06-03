@@ -144,3 +144,4 @@ Because worrying is keeping them that way
 * Pain fades and each disaster only gets one line
 * Happiness as a side effect
 * Tiny ice cubes
+* Need that energy, that variance
