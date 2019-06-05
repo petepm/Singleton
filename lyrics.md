@@ -135,6 +135,9 @@ But then start worrying that if I stop worrying
 Things will start to be not okay
 Because worrying is keeping them that way
 
+If I could only finish this song
+All my problems would be gone
+
 
 ## Misc ideas
 
