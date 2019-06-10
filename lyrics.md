@@ -42,7 +42,7 @@ And now it's running back to you
 ## Post-chorus
 
 I saw she likes her fucking punk songs
-I'd sit and bear them all day long
+I'll sit and play them all day long
 Then lay there all night
 On a pull-out couch
 With tiny ice cube tray
@@ -150,3 +150,5 @@ All my problems would be gone
 * Need that energy, that variance
 * If you don't have problems, like being ugly or awkward, you may not need to
   get involved in some good shit, since things will just go so well for you.
+* Thought it was unfortunate that I'd have to get married someday, and it would
+  be so nerve-wracking.
