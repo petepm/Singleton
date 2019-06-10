@@ -148,3 +148,5 @@ All my problems would be gone
 * Happiness as a side effect
 * Tiny ice cubes
 * Need that energy, that variance
+* If you don't have problems, like being ugly or awkward, you may not need to
+  get involved in some good shit, since things will just go so well for you.
