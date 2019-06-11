@@ -70,7 +70,18 @@ We must now arrange a "melody" or story from these.
 The initial riffs were very simple.
 
 
+## Breakdown desolation part
+
+1. 8 chugs then 21 8ths: 4 * (5 + 1/4) * 1/8 = 4 * (5/8 + 1/32) = 4 * 21/32
+2. 7 chugs then 20 8ths: 4 * 5 * 1/8
+3. 9 chugs then 19 8ths: 19 / 4 * 1/8 = 4 * 19/32
+4. 9 chugs then 24 8ths: 4 * (24/32) = 4 * (6/8)
+
+How many triplets for the buildup?
+
+
 ## Misc concepts
 
 * Intro riff gets more complicated each iteration, even when it comes back
   later in the song.
+* Orbin yell 1-2-3-4 with the stick count in.
