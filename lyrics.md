@@ -25,6 +25,7 @@ Old rod bent and waiting
 A master baiting furiously
 
 And the memories assaulting sleep
+Bring the cringe in heaps
 In dreams when I'm just trying to get my Zs
 They're terrifying me
 Eternally
