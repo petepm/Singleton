@@ -79,6 +79,10 @@ The initial riffs were very simple.
 
 How many triplets for the buildup?
 
+18 clusters of 3, then 13 clusters of 3, then 1 lone triplet.
+
+The geet fill is 11 clusters of 3 triplets, then the last long note.
+
 
 ## Misc concepts
 
