@@ -12,7 +12,7 @@ Or complex imaginary
 ## Chorus 1
 
 I've slid down that slippery slope before
-Forgot to kiss
+Five-got to kiss
 AH!
 Will not fail until I fail the next time
 And it's coming back to
@@ -20,7 +20,8 @@ And it's coming back to
 
 ## Verse 2
 
-This cliche bout quantity of fishies
+Hm cliche bout quantity of fishies
+The sea
 Got me
 No arm floatees
 Old rod bent and waiting
@@ -38,8 +39,8 @@ Eternally
 
 I always thought that I would miss you
 But now it's in a different way
-Count down the times I had no tears
-Fall on my face
+Count down the times I did not try
+Or fall on my face
 And now it's coming back to you
 
 
@@ -49,7 +50,7 @@ I see you like your fucking punk songs
 I'll sit and play them all day long
 Then lay there all night
 On a pull-out couch
-With tiny ice cube tray
+Like a tiny ice cube tray
 Cursed with nothing normal to say
 I'd say anything to make you feel
 
@@ -57,23 +58,22 @@ I'd say anything to make you feel
 ## Intro return
 
 Freeze up round pretty girls
-And I'm down on my knees
-Like a tree with falling seeds
-Where most will not sprout
+Like I fell out a tree
+Fallen seed
+No most will not take
 Struggling all the way
-Down the path where some say
+Missed the path where some say
 Hey babe let's get married
 
 
 ## Intro outro
 
-Accomplished rate of change
-Happiness and heartbreak remove the strange
-Drive to create will remain
+I simply shouldn't care
+Be a part of the weird in the town of the pink
+Aware inside something is driving
 Tugging all the way
-Let
-Tell your friends they'll claim insane
-Say you'd get married
+If this is your last time in love
+Then get married
 
 
 ## Misc lyrics
@@ -159,3 +159,6 @@ All my problems would be gone
   be so nerve-wracking.
 * Lots of "i" in this song. Is this a math joke?!?!?!
 * Not enough courage to try for the connection I want
+* A couple dragons
+* Compliments with caveats
+* Left the shelter
