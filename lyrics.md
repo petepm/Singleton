@@ -2,16 +2,18 @@
 
 ## Verse 1
 
-Let's say that happy is an exponential
-Could be complex wavy
-If imaginary
-
+If only I could get this stupid song done
+Finally, would be happy
+Uh
+Function with its own rate of change
+Uh
+Or complex imaginary
 
 ## Chorus 1
 
-I've slid down this slippery slope before
+I've slid down that slippery slope before
 Forgot to kiss
-AHHHHHH!
+AH!
 Will not fail until I fail the next time
 And it's coming back to
 
@@ -25,29 +27,31 @@ Old rod bent and waiting
 A master baiting furiously
 
 And the memories assaulting sleep
-Bring the cringe in heaps
-In dreams when I'm just trying to get my Zs
+And dreams
+The cringe in heaps
+Stacked on my Zs
 They're terrifying me
 Eternally
 
 
 ## Chorus 2
 
-I always said I'd need a tissue
+I always thought that I would miss you
 But now it's in a different way
 Count down the times I had no tears
 Fall on my face
-And now it's running back to you
+And now it's coming back to you
 
 
 ## Post-chorus
 
-I saw she likes her fucking punk songs
+I see you like your fucking punk songs
 I'll sit and play them all day long
 Then lay there all night
 On a pull-out couch
 With tiny ice cube tray
 Cursed with nothing normal to say
+I'd say anything to make you feel
 
 
 ## Intro return
@@ -153,3 +157,5 @@ All my problems would be gone
   get involved in some good shit, since things will just go so well for you.
 * Thought it was unfortunate that I'd have to get married someday, and it would
   be so nerve-wracking.
+* Lots of "i" in this song. Is this a math joke?!?!?!
+* Not enough courage to try for the connection I want
