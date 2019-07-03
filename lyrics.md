@@ -58,10 +58,10 @@ I'd take anything to make you feel
 ## Intro return
 
 No use 'round pretty girls
-Like I fell out a tree
-Down on a knee
-Like a fallen seed
-In nature no most will not take
+Now I'm down on a knee
+Like a nut that fell from a tree
+A fallen seed
+No most won't succeed
 Bunglin' all the way
 Left that sheltered path where some say
 Let's get married
