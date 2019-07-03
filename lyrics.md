@@ -72,7 +72,7 @@ Let's get married
 Slow down now baby
 I'm just not ready for that kind of commitment
 You want to share passwords?
-Let me show you what I can do
+I'll show you what I can do
 
 
 ## Solo
