@@ -100,7 +100,7 @@ Undeclare any air of self
 Awareness and don't spare this pulled pork parade
 Tugging all the way
 It must be your last time in love
-Then get married
+So get married
 
 
 ## Misc lyrics
