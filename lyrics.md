@@ -95,10 +95,11 @@ My curse of nothing good to say
 ## Intro outro
 
 I simply shouldn't care
-Be a part of the weird without self
+Be a part of the weird
+Undeclare any air of self
 Awareness and don't spare this pulled pork parade
 Tugging all the way
-If this be your last time in love
+It must be your last time in love
 Then get married
 
 
