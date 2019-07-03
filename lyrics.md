@@ -48,7 +48,7 @@ And now it's coming back to you
 ## Post-chorus
 
 I see you like your fucking punk songs
-I'll sit and play them all day long
+I'd sit and play them all day long
 Then lay all night
 On a pull-out couch
 Sad like a miniature ice cube tray
@@ -71,7 +71,7 @@ Let's get married
 
 Slow down now baby
 I'm just not ready for that kind of commitment
-You want to share Flixnet passwords?
+You want to share passwords?
 
 
 ## Solo
@@ -83,18 +83,18 @@ No I don't take music that seriously
 
 ## Solo 2
 
-I see you like your fucking punk songs
-I'd sit and play them all day long
+I see you like your fucking prog songs
+I'd sit and slay them all day long
 Cursed with nothing normal to day
 
 
 ## Intro outro
 
 I simply shouldn't care
-Be a part of the weird in the town of the pink
-Aware inside something is driving
+Be a part of the weird without self
+Awareness and don't spare this pulled pork parade
 Tugging all the way
-If this is your last time in love
+If this be your last time in love
 Then get married
 
 
