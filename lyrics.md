@@ -20,12 +20,13 @@ And it's coming back to
 
 ## Verse 2
 
-Hm cliche bout quantity of fishies
+This cliche bout quantity of fishies
 The sea
 Got me
 No arm floatees
-Old rod bent and waiting
-A master baiting furiously
+Ow hey
+That old rod bent off awkwardly
+But it's baited masterfully
 
 And the memories assaulting sleep
 And dreams
@@ -39,7 +40,7 @@ Eternally
 
 I always thought that I would miss you
 But now it's in a different way
-Count down the times I did not try
+Count down the times I would not try
 Or fall on my face
 And now it's coming back to you
 
@@ -48,22 +49,43 @@ And now it's coming back to you
 
 I see you like your fucking punk songs
 I'll sit and play them all day long
-Then lay there all night
+Then lay all night
 On a pull-out couch
-Like a tiny ice cube tray
-Cursed with nothing normal to say
-I'd say anything to make you feel
+Sad like a miniature ice cube tray
+I'd take anything to make you feel
 
 
 ## Intro return
 
-Freeze up round pretty girls
+No use 'round pretty girls
 Like I fell out a tree
-Fallen seed
-No most will not take
-Struggling all the way
-Missed the path where some say
-Hey babe let's get married
+Down on a knee
+Like a fallen seed
+In nature no most will not take
+Bunglin' all the way
+Left that sheltered path where some say
+Let's get married
+
+
+## Slow intro
+
+Slow down now baby
+I'm just not ready for that kind of commitment
+You want to share Flixnet passwords?
+
+
+## Solo
+
+Hey baby
+Isn't this an impressive guitar solo
+No I don't take music that seriously
+
+
+## Solo 2
+
+I see you like your fucking punk songs
+I'd sit and play them all day long
+Cursed with nothing normal to day
 
 
 ## Intro outro
@@ -140,9 +162,6 @@ But then start worrying that if I stop worrying
 Things will start to be not okay
 Because worrying is keeping them that way
 
-If I could only finish this song
-All my problems would be gone
-
 
 ## Misc ideas
 
@@ -162,3 +181,4 @@ All my problems would be gone
 * A couple dragons
 * Compliments with caveats
 * Left the shelter
+* Won't let it bug me since I won't live that long anyway
