@@ -72,20 +72,24 @@ Let's get married
 Slow down now baby
 I'm just not ready for that kind of commitment
 You want to share passwords?
+Let me show you what I can do
 
 
 ## Solo
 
 Hey baby
 Isn't this an impressive guitar solo
-No I don't take music that seriously
+I swear
+I don't take music that seriously
 
 
-## Solo 2
+## Solo 2 (background vox)
 
 I see you like your fucking prog songs
-I'd sit and slay them all day long
-Cursed with nothing normal to day
+I'd sit and play them all night long
+Then lay all day next to Lentil Soup
+One evil dragon that I can't slay
+My curse of nothing good to say
 
 
 ## Intro outro
