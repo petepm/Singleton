@@ -4,16 +4,16 @@
 
 If only I could get this stupid song done
 Finally, would be happy
-Uh
+Q
 Function with its own rate of change
-Uh
+T
 Or complex imaginary
 
 ## Chorus 1
 
 I've slid down that slippery slope before
 Five-got to kiss
-AH!
+Pi!
 Will not fail until I fail the next time
 And it's coming back to
 
@@ -62,6 +62,7 @@ Now I'm down on a knee
 Like a nut that fell from a tree
 A fallen seed
 No most won't succeed
+[No qt 3.14]
 Bunglin' all the way
 Left that sheltered path where some say
 Let's get married
@@ -97,7 +98,7 @@ My curse of nothing good to say
 I simply shouldn't care
 Be a part of the weird
 Undeclare any air of self
-Awareness and don't spare this pulled pork parade
+Awareness and don't spare this Pinkerton pulled pork parade
 Tugging all the way
 It must be your last time in love
 So get married
