@@ -14,8 +14,7 @@ Or complex imaginary
 I've [three] slid [point] down
 That [one] slippery slope be-four [one]
 Five-got to kiss
-Pi!
-Will not fail until I fail the next time
+Pi will not fail until i fail the next time
 And it's coming back to
 
 
