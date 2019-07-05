@@ -11,7 +11,8 @@ Or complex imaginary
 
 ## Chorus 1
 
-I've slid down that slippery slope before
+I've [three] slid [point] down
+That [one] slippery slope be-four [one]
 Five-got to kiss
 Pi!
 Will not fail until I fail the next time
