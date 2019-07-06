@@ -63,7 +63,7 @@ Like a nut that fell from a tree
 A fallen seed
 No most won't succeed
 [No qt 3.14]
-Bunglin' all the way
+Bumblin' all the way
 Left that sheltered path where some say
 Let's get married
 
