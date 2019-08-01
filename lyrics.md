@@ -98,7 +98,7 @@ My curse of nothing good to say
 I simply shouldn't care
 Be a part of the weird
 Undeclare any air of self
-Awareness and don't spare this Pinkerton pulled pork parade
+Awareness derriere this Pinkerton pulled pork parade
 Tugging all the way
 It must be your last time in love
 So get married
