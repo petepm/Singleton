@@ -41,7 +41,7 @@ Eternally
 I always thought that I would miss you
 But now it's in a different way
 Count down the times I would not try
-Or fall on my face
+To fall on my face
 And now it's coming back to you
 
 
