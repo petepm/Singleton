@@ -76,6 +76,16 @@ You want to share passwords?
 I'll show you what I can do
 
 
+## Desolation part
+
+Obsession got you hamstrung
+Treadmill hedonic
+Forget the s that's out in the front
+Keep dreams locked up
+
+I'm creepin' up on ya
+
+
 ## Solo
 
 Hey baby
@@ -100,6 +110,6 @@ Be a part of the weird
 Undeclare any air of self
 Awareness it ain't fair
 This pulled pork Pinkerton pop parade
-Tugging all the way
+Struggling all the way
 It must be your last time in love
 So get married
