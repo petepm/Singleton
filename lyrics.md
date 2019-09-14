@@ -20,8 +20,7 @@ And it's coming back to
 
 ## Verse 2
 
-This cliché 'bout quantity of fishies
-The sea
+This cliché 'bout quantity of fish in the sea
 Got me
 No arm floaties
 Ow hey
