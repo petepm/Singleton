@@ -4,29 +4,30 @@
 
 If only I could get this stupid song done
 Finally, would be happy
-Q
+Uh
 Function with its own rate of change
-T
+Yeah!
 Or complex imaginary
 
 ## Chorus 1
 
-I've [three] slid [point] down
-That [one] slippery slope be-four [one]
+I've slid down
+That slippery slope be-four
 Five-got to kiss
-Pi will not fail until i fail the next time
+I will not fail until I fail the next time
 And it's coming back to
 
 
 ## Verse 2
 
-This cliche bout quantity of fishies
+This cliché 'bout quantity of fishies
 The sea
 Got me
-No arm floatees
+No arm floaties
 Ow hey
 That old rod bent off awkwardly
-But it's baited masterfully
+But!
+It's baited masterfully
 
 And the memories assaulting sleep
 And dreams
@@ -52,17 +53,16 @@ I'd sit and play them all day long
 Then lay all night
 On a pull-out couch
 Sad like a miniature ice cube tray
-I'd take anything to make you feel
+I'd say anything to make you feel
 
 
 ## Intro return
 
 No use 'round pretty girls
-Now I'm down on a knee
+Now I'm down on my knees
 Like a nut that fell from a tree
 A fallen seed
 No most won't succeed
-[No qt 3.14]
 Bumblin' all the way
 Left that sheltered path where some say
 Let's get married
@@ -70,28 +70,24 @@ Let's get married
 
 ## Slow intro
 
-Slow down now baby
+Whoa hold on now baby
+You want to know my password?
 I'm just not ready for that kind of commitment
-You want to share passwords?
-I'll show you what I can do
-
-
-## Desolation part
-
-Obsession got you hamstrung
-Treadmill hedonic
-Forget the s that's out in the front
-Keep dreams locked up
-
-I'm creepin' up on ya
 
 
 ## Solo
 
-Hey baby
-Isn't this an impressive guitar solo
-I swear
-I don't take music that seriously
+Perhaps I can interest you in a guitar solo instead
+Oh yeah, just wait until you hear this next part
+
+
+## Desolation part
+
+Obsession's got you hamstrung
+Treadmill hedonic
+Forget the 's' that's in the front
+Oh I'm creepin' up on ya
+I'm creepin'
 
 
 ## Solo 2 (background vox)
@@ -109,7 +105,7 @@ I simply shouldn't care
 Be a part of the weird
 Undeclare any air of self
 Awareness it ain't fair
-This pulled pork Pinkerton pop parade
+This Pinkerton pop pulled pork parade
 Struggling all the way
 It must be your last time in love
 So get married
