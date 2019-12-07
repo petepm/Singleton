@@ -105,3 +105,9 @@ Measures/beats since start, time, tempo:
 * Intro riff gets more complicated each iteration, even when it comes back
   later in the song.
 * Orbin yell 1-2-3-4 with the stick count in.
+
+
+## License
+
+Code in notebooks is MIT licensed--see `LICENSE`. All other materials
+licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
